@@ -1,0 +1,11 @@
+{
+    "employeeTable": {
+        "title": "Lista de empleados",
+        "id": "ID compañía",
+        "name": "Nombre",
+        "lastName": "Apellidos",
+        "email": "email",
+        "phoneNumber": "Teléfono",
+        "actions": "Acciones"
+    }
+}
